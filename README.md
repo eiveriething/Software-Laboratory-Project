@@ -28,13 +28,13 @@ IMPORTANT:
 
 Run the web app (recommended):
 1. Make sure Python 3.10+ is installed.
-2. pip install -r requirements.txt
-3. python app.py
+2. In the terminal, type pip install -r requirements.txt
+3. And then type python app.py
 4. Open http://127.0.0.1:5000 in your browser
 5. Register a requester account on the login page.
 
 Run the command-line version (optional):
-1. python helpdesk_ticketing_system (2).py
+1. Run python helpdesk_ticketing_system (2).py
 2. Register a requester account through the menu.
 
 Implemented:
